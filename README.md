@@ -2,7 +2,7 @@
 
 Steam Depot Manifest Cache
 
-Update time: `2025-09-26`
+Update time: `2025-10-09`
 
 ## Note
 
