@@ -1,0 +1,8 @@
+1. Prepara la versión completa y la versión de demostración de *Cloud Kingdom*.
+
+2. Abre el directorio de instalación del juego
+•Elimina todos los archivos del juego en la carpeta Cloudheim Demo.
+•Copia y pega los archivos del juego de la carpeta Cloudheim en la carpeta Cloudheim Demo.
+•Cambia el nombre del programa CloudheimSteam.exe a CloudheimSteamDemo.exe
+
+3. Accede al juego ejecutando la demo de "Cloudheim Demo" en Steam.
