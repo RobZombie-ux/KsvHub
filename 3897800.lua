@@ -1,0 +1,7 @@
+addappid(3897800) -- Poker Night at the Inventory
+-- MAIN APP DEPOTS
+addappid(3897801, 1, "31410dc657bdde34e7e0e1d71fb0c4786516d73d1624b7118505699610c987a4") -- Depot 3897801
+--setManifestid(3897801, "1800013490738356666", 999002506)
+-- SHARED DEPOTS (from other apps)
+addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") -- DirectX Jun 2010 Redist (Shared from App 228980)
+--setManifestid(228990, "1829726630299308803", 102931551)
