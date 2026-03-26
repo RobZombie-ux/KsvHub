@@ -1,0 +1,4 @@
+addappid(3180410) -- Project Songbird
+-- MAIN APP DEPOTS
+addappid(3180411, 1, "81b3490e78b7ffdbe2d2c276e3299d4c0f0cd8048941db8a6f7272ab97b3a9c5") -- Depot 3180411
+--setManifestid(3180411, "5428564928636356893", 5748007555)
