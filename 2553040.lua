@@ -1,0 +1,5 @@
+addappid(2553040) -- Nested Lands
+addtoken(2553040, "10155012610828843828")
+-- MAIN APP DEPOTS
+addappid(2553041, 1, "f218e3a1f8ac36dfce6b45bc9faafda810050dfe1c14de69a984a268888c3d1f") -- Depot 2553041
+--setManifestid(2553041, "3424759570781461061", 12334189050)
