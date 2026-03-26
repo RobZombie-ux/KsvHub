@@ -1,0 +1,28 @@
+addappid(1285190)
+addappid(1285191, 1, "aabb315ef5573fc2633c461cd2ac9b553e2713ca90a67ad2df09781274cbb20f") -- Depot 1285191
+--setManifestid(1285191, "8461162535071036430", 91954794824)
+addappid(1285192, 1, "3e212ce90691e4e8f2f1418c35495c50a725bb0d012d9f415b0a8a9119dfb0f4") -- Depot 1285192
+--setManifestid(1285192, "8593814336479478264", 791728848)
+addappid(1285193, 1, "5c38ce39a639096877f707cb88dea4250f2a4b53ae5e1b67654e243d2b988ede") -- Depot 1285193
+--setManifestid(1285193, "1587472964084640951", 0)
+addappid(1285195, 1, "ccf45efe0bf7e329f6b3fa0b29af3c0c7a609c49f6e9b7018bf644fe2f158a82") -- Depot 1285195
+--setManifestid(1285195, "218636985744352584", 18977609)
+-- SHARED DEPOTS (from other apps)
+addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") -- VC 2022 Redist (Shared from App 228980)
+--setManifestid(228989, "3514306556860204959", 39590283)
+addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") -- DirectX Jun 2010 Redist (Shared from App 228980)
+--setManifestid(228990, "1829726630299308803", 102931551)
+-- DLCS WITH DEDICATED DEPOTS
+-- Borderlands4 Gilded Glory Pack (AppID: 2013850)
+addappid(2013850)
+addappid(2013850, 1, "f0f6f03e213ec6effac974bc92309dc05e11e8d49013fabccdc253f8479d1c44") -- Borderlands4 Gilded Glory Pack - Depot 2013850
+--setManifestid(2013850, "1885194575676718061", 11)
+-- DLCS WITHOUT DEDICATED DEPOTS
+addappid(3802360) -- Borderlands4 Firehawks Fury Weapon Skin
+addappid(3802370) -- Borderlands4 Ornate Order Pack
+addappid(3802420) -- Borderlands4 - Bounty Pack 2 Legend of the Stone Demon
+addappid(3829670) -- Borderlands4 Bounty Pack Bundle
+addappid(3829680) -- Borderlands4 Vault Hunter Pack
+-- EXCLUDED DLCS:
+-- UNRELEASED DLCS (COMMENTED OUT)
+-- addappid(3802450) -- Borderlands 4 - Story Pack 1: Mad Ellie and the Vault of the Damned (unreleased)
