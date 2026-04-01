@@ -1,0 +1,6 @@
+addappid(4170200) -- Data Center
+-- MAIN APP DEPOTS
+addappid(4170201, 1, "ad41cc3a2bf95bb5607b3d479a26ea1dd53d954aeb040c6a236b3b5e71380e7c") -- Depot 4170201
+--setManifestid(4170201, "5182314853568717057", 1771390665)
+-- DLCS WITHOUT DEDICATED DEPOTS
+addappid(4540490) -- Supporter Pack
